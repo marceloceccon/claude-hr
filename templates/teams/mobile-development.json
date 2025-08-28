@@ -1,0 +1,44 @@
+{
+  "name": "mobile-development",
+  "description": "Cross-platform mobile development team with native capabilities",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "react-native-expert",
+      "role": "mobile",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "ios-developer",
+      "role": "mobile",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "android-developer",
+      "role": "mobile",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "ui-designer",
+      "role": "frontend",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "name": "test-automation-expert",
+      "role": "testing",
+      "priority": 5,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["mobile", "react-native", "ios", "android", "cross-platform"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "Mobile development team combining React Native cross-platform development with native iOS and Android expertise. Includes UI design and mobile testing specialists for comprehensive mobile app development.",
+    "useCase": "Mobile applications, cross-platform apps, native mobile features"
+  }
+}

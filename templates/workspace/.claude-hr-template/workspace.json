@@ -1,0 +1,12 @@
+{
+  "activeTeam": null,
+  "localAgents": [],
+  "overrides": {
+    "agents": {}
+  },
+  "workspace": {
+    "name": "project-template",
+    "type": "web-application",
+    "framework": "react"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "web-development",
+  "description": "Full-stack web development team with frontend, backend, and DevOps expertise",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "react-expert",
+      "role": "frontend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "csharp-architect",
+      "role": "backend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "database-expert",
+      "role": "backend",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "test-automation-expert",
+      "role": "testing",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "kubernetes-expert",
+      "role": "devops",
+      "priority": 4,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["web", "fullstack", "enterprise", "react", "dotnet"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "Complete web development team covering frontend React development, C# backend architecture, database design, automated testing, and Kubernetes deployment. Ideal for enterprise web applications requiring scalable architecture and modern development practices.",
+    "useCase": "Enterprise web applications, SaaS platforms, business applications"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "name": "backend-focused",
+  "description": "Backend-heavy team for scalable server-side systems and APIs",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "csharp-architect",
+      "role": "backend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "database-expert",
+      "role": "backend",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "api-designer",
+      "role": "backend",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "microservices-expert",
+      "role": "backend",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "name": "security-auditor",
+      "role": "security",
+      "priority": 5,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["backend", "api", "microservices", "database", "security", "scalability"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "Backend-focused team specializing in scalable server architectures, API design, database optimization, microservices, and security. Ideal for building robust backend systems and enterprise APIs.",
+    "useCase": "API platforms, microservices architecture, enterprise backend systems"
+  }
+}

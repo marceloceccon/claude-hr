@@ -1,0 +1,44 @@
+{
+  "name": "devops",
+  "description": "DevOps and infrastructure team for CI/CD and cloud deployment",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "kubernetes-expert",
+      "role": "devops",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "aws-architect",
+      "role": "devops",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "ci-cd-specialist",
+      "role": "devops",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "security-auditor",
+      "role": "security",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "name": "performance-tester",
+      "role": "testing",
+      "priority": 5,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["devops", "kubernetes", "aws", "ci-cd", "infrastructure", "automation"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "DevOps-focused team specializing in container orchestration, cloud architecture, continuous integration/deployment, security, and performance testing. Perfect for infrastructure automation and deployment pipeline optimization.",
+    "useCase": "Infrastructure automation, cloud migration, CI/CD pipelines, deployment optimization"
+  }
+}

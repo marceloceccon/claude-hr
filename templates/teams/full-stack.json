@@ -1,0 +1,56 @@
+{
+  "name": "full-stack",
+  "description": "Balanced full-stack development team for complete application development",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "react-expert",
+      "role": "frontend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "csharp-architect",
+      "role": "backend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "database-expert",
+      "role": "backend",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "react-native-expert",
+      "role": "mobile",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "test-automation-expert",
+      "role": "testing",
+      "priority": 4,
+      "enabled": true
+    },
+    {
+      "name": "kubernetes-expert",
+      "role": "devops",
+      "priority": 5,
+      "enabled": true
+    },
+    {
+      "name": "security-auditor",
+      "role": "security",
+      "priority": 6,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["fullstack", "web", "mobile", "backend", "frontend", "comprehensive"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "Comprehensive full-stack team covering web frontend, backend APIs, mobile applications, testing, deployment, and security. Suitable for complete application development from concept to production.",
+    "useCase": "Complete application development, startup MVPs, comprehensive platform development"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "name": "frontend-focused",
+  "description": "Frontend-heavy team specializing in modern web interfaces and user experience",
+  "version": "1.0.0",
+  "agents": [
+    {
+      "name": "react-expert",
+      "role": "frontend",
+      "priority": 1,
+      "enabled": true
+    },
+    {
+      "name": "ui-designer",
+      "role": "frontend",
+      "priority": 2,
+      "enabled": true
+    },
+    {
+      "name": "accessibility-specialist",
+      "role": "frontend",
+      "priority": 3,
+      "enabled": true
+    },
+    {
+      "name": "test-automation-expert",
+      "role": "testing",
+      "priority": 4,
+      "enabled": true
+    }
+  ],
+  "metadata": {
+    "tags": ["frontend", "ui", "ux", "react", "accessibility", "design"],
+    "author": "claude-hr-team",
+    "license": "MIT",
+    "description": "Frontend-focused team emphasizing modern React development, UI/UX design, accessibility compliance, and comprehensive testing. Perfect for projects where user experience and interface quality are primary concerns.",
+    "useCase": "Consumer web applications, design systems, UI component libraries"
+  }
+}
