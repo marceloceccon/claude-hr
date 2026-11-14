@@ -30,7 +30,7 @@
     "commander": "^12.1.0",
     "date-fns": "^4.1.0",
     "fs-extra": "^11.2.0",
-    "glob": "^11.0.3",
+    "glob": "^14.0.2",
     "gray-matter": "^4.0.3",
     "inquirer": "^12.9.4",
     "ora": "^8.2.0",
